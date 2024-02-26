@@ -4,7 +4,7 @@ body {
 
 caption {
     width: 250px;
-    padding-bottom: 3px;
+    padding-bottom: 5px;
     margin: auto;
 }
 
@@ -21,20 +21,23 @@ table {
     margin: auto;
     padding: 3px;
     background-color: #fee4c3;
-}
-
-thead,
-td {
-    width: 1000px;
+    
 }
 
 tbody,
 td {
+    border-bottom: solid 1px black;
+    border-right: solid 1px black;
     text-align: center;
+    border-left: solid 1px black;
+    width: 1000px;
 }
 
 tfoot {
     background-color: #02bcfe;
     font-weight: bold;
     font-size: 18px;
+}
+.bottom {
+    border: none;
 }
