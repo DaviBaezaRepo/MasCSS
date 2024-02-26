@@ -1,0 +1,14 @@
+div{
+    padding: 50px;
+    border-bottom: 50px;
+    border-bottom-color: red;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+    border-top-style: dashed;
+    border-top-color: green;
+    border-left-style: double;
+    border-left-width: 10px;
+    border-right-style: dashed;
+    border-right-width: 10px;
+    border-right-color: blue;
+}

@@ -1,0 +1,43 @@
+body {
+    background-color: blanchedalmond;
+}
+.box1 {
+    border: solid black 2px;
+    background-color:gainsboro;
+    text-align: left;
+    width: 200px;
+    margin: 25px;
+    border-radius: 5px;
+    padding: 0 10px 0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.box2 {
+    border: solid black 2px;
+    background-color: gainsboro;
+    text-align: center;
+    width: 200px;
+    margin: 25px;
+    border-radius: 5px;
+    padding: 0 10px 0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.box3 {
+    border: solid black 2px;
+    background-color: gainsboro;
+    text-align: right;
+    width: 200px;
+    height: 20px;
+    margin: 25px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding: 0 10px 0;
+}

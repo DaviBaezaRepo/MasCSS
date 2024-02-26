@@ -1,0 +1,40 @@
+body {
+    background-color: #e5e6fb;
+}
+
+caption {
+    width: 250px;
+    padding-bottom: 3px;
+    margin: auto;
+}
+
+span {
+    background-color: #02bcfe;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+table {
+    border: 5px solid black;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    margin: auto;
+    padding: 3px;
+    background-color: #fee4c3;
+}
+
+thead,
+td {
+    width: 1000px;
+}
+
+tbody,
+td {
+    text-align: center;
+}
+
+tfoot {
+    background-color: #02bcfe;
+    font-weight: bold;
+    font-size: 18px;
+}
