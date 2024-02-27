@@ -1,0 +1,94 @@
+.border1 {
+    height: 50px;
+    background-color: red;
+    width: 50px;
+    margin: auto;
+    margin-top: 300px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.linea1 {
+    border: solid 1px black;
+    position: relative;
+    top: -1409px;
+    z-index: 1000px;
+    width: 365px;
+    margin-left: 138px;
+
+}
+.border2 {
+    position: relative;
+    top: -85px;
+    height: 80px;
+    width: 80px;
+    margin: auto;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border: solid 20px red;
+}
+.border3 {
+    position: relative;
+    top: -245px;
+    height: 160px;
+    width: 160px;
+    margin: auto;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border: solid 20px red;
+}
+.border4 {
+    position: relative;
+    top: -490px;
+    height: 250px;
+    width: 250px;
+    margin: auto;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border: solid 20px red;
+}
+.border5 {
+    position: relative;
+    top: -815px;
+    height: 350px;
+    width: 350px;
+    margin: auto;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border: solid 7px red;
+}
+.border6 {
+    position: relative;
+    top: -1200px;
+    left: 5px;
+    height: 370px;
+    width: 370px;
+    margin: auto;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border: solid 20px #d1cec5;
+    box-shadow: 4px 5px 10px #d1cec5 ;
+}
+.linea2 {
+    border-left: solid 2px black;
+    position: relative;
+    top: -1409px;
+    z-index: 1000px;
+}
