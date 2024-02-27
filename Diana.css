@@ -16,8 +16,7 @@
     top: -1409px;
     z-index: 1000px;
     width: 365px;
-    margin-left: 138px;
-
+    margin-left: 117px;
 }
 .border2 {
     position: relative;
@@ -84,11 +83,17 @@
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     border: solid 20px #d1cec5;
-    box-shadow: 4px 5px 10px #d1cec5 ;
+    box-shadow: 5px 10px 20px #d1cec5 ;
 }
 .linea2 {
-    border-left: solid 2px black;
+    border: black solid 2px;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
     position: relative;
-    top: -1409px;
-    z-index: 1000px;
+    top: -1400px;
+    width: 365px;
+    left: 107px;
 }
