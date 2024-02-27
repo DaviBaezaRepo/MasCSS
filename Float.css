@@ -1,6 +1,8 @@
 .image {
     float: right;
+    margin: right;
 }
 .Texto {
     float: left;
+    margin: auto;
 }
