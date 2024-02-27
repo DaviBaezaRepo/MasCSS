@@ -1,13 +1,14 @@
 .box {
     background-color: red;
     height: 200px;
-    width: 250px;
+    width: 210px;
     margin: auto;
+    margin-top: 50px;
     border: solid black 2px;
 }
 .number3 {
     position: relative;
-    top: 149px;
+    top: 148px;
     border: solid black 2px;
     border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -21,7 +22,7 @@
 }
 .number1 {
     position: relative;
-    top: -5px;
+    top: -9px;
     border: solid black 2px;
     border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -35,8 +36,8 @@
 }
 .number2 {
     position: relative;
-    top: -27px;
-    left: 238px;
+    top: -31px;
+    left: 201px;
     border: solid black 2px;
     border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -51,7 +52,7 @@
 .number4 {
     position: relative;
     top: 127px;
-    left: 238px;
+    left: 201px;
     border: solid black 2px;
     border-radius: 50%;
     -webkit-border-radius: 50%;
