@@ -1,0 +1,65 @@
+.box {
+    background-color: red;
+    height: 200px;
+    width: 250px;
+    margin: auto;
+    border: solid black 2px;
+}
+.number3 {
+    position: relative;
+    top: 149px;
+    border: solid black 2px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    width: 18px;
+    right: 8px;
+    background-color: greenyellow;
+    text-align: center;
+}
+.number1 {
+    position: relative;
+    top: -5px;
+    border: solid black 2px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    width: 18px;
+    right: 8px;
+    background-color: greenyellow;
+    text-align: center;
+}
+.number2 {
+    position: relative;
+    top: -27px;
+    left: 238px;
+    border: solid black 2px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    width: 18px;
+    right: 8px;
+    background-color: greenyellow;
+    text-align: center;
+}
+.number4 {
+    position: relative;
+    top: 127px;
+    left: 238px;
+    border: solid black 2px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    width: 18px;
+    right: 8px;
+    background-color: greenyellow;
+    text-align: center;
+}
