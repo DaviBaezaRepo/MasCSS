@@ -1,0 +1,180 @@
+body {
+  margin-left: 47%;
+}
+
+.Redonda1 {
+  border: solid red 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 1px;
+  display: flex;
+}
+.Redonda2 {
+  border: solid #01ff02 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 1px;
+  float: right;
+  position: relative;
+  top: -39px;
+  right: 230px;
+}
+.Redonda3 {
+  border: solid blue 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 1px;
+  float: right;
+  position: relative;
+  top: -39px;
+  right: 138px;
+}
+.Redonda4 {
+  border: solid red 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 1px;
+  display: flex;
+}
+.Redonda5 {
+  border: solid blue 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 1px;
+  float: right;
+  position: relative;
+  top: -90px;
+  right: 225px;
+}
+.Redonda6 {
+  border: solid #ff00fe 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 1px;
+  float: right;
+  position: relative;
+  top: -123px;
+  right: 130px;
+}
+#suma {
+  position: relative;
+  left: 42px;
+  top: -45px;
+}
+#igual {
+  position: relative;
+  left: 95px;
+  top: -78px;
+}
+.Redonda7 {
+  border: solid blue 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 1px;
+  position: relative;
+  top: -80px;
+}
+.Redonda8 {
+  border: solid #01ff02 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 1px;
+  float: right;
+  position: relative;
+  top: -170px;
+  right: 225px;
+}
+.Redonda9 {
+  border: solid #00feff 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 1px;
+  float: right;
+  position: relative;
+  top: -203px;
+  right: 130px;
+}
+#suma2 {
+  position: relative;
+  left: 42px;
+  top: -125px;
+}
+#igual2 {
+  position: relative;
+  left: 95px;
+  top: -157px;
+}
+.Redonda10 {
+  border: solid #01ff02 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 1px;
+  position: relative;
+  top: -155px;
+}
+.Redonda11 {
+  border: solid red 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 1px;
+  float: right;
+  position: relative;
+  top: -245px;
+  right: 225px;
+}
+.Redonda12 {
+  border: solid #ffff00 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 1px;
+  float: right;
+  position: relative;
+  top: -278px;
+  right: 130px;
+}
+#suma3 {
+  position: relative;
+  left: 42px;
+  top: -199px;
+}
+#igual3 {
+  position: relative;
+  left: 95px;
+  top: -233px;
+}

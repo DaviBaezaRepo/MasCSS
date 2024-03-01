@@ -1,30 +1,27 @@
+
+div {
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
 header {
     background-color: #fe0000;
-    height: 50px;
-    width: auto;
-    margin: -8px;
+   float: initial;
 }
 nav {
     background-color: #027fff;
-    height: 20px;
-    width: auto;
-    margin: -8px;
+    
 }
 section {
     background-color: #ffc7c6;
-    height: 450px;
-    width: 600px;
-    margin-left: -8px;
-    margin-top: 8px;
     float: left;
 }
 aside {
     background-color: #fe80fe;
-    height: 450px;
-    width: 212px;
-    margin-right: -8px;
-    margin-top: 8px;
-    float:right
+  float: right;
 }
 footer {
     background-color: #7eff00;
