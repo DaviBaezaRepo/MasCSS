@@ -138,38 +138,41 @@
     }
     .color5 {
         background-color: #4a89d0;
-        height: 10vh;
+        height: 20vh;
         width: 300px;
         float: right;
     }
     .color6 {
         background-color: #4a89d0;
-        height: 10vh;
-        width: 280px;
-        clear: initial;
+        height: 20vh;
+        width: 330px;
+        float: left;
+        position: relative;
+        left: 30px;
     }
     .color7 {
         background-color: #e3e3e3;
-        height: 8vh;
-        width: 45vw;
+        height: 20vh;
+        width: 25vw;
+        clear: both;
     }
     .color8 {
         background-color: #e3e3e3;
-        height: 8vh;
+        height: 20vh;
+        width: 25vw;
         visibility: initial;
-        width: 45vw;
     }
     .color9 {
         background-color: #e3e3e3;
-        height: 8vh;
+        height: 20vh;
+        width: 25vw;
         visibility: initial;
-        width: 45vw;
     }
     .color10 {
         background-color: #e3e3e3;
-        height: 7vh;
+        height: 20vh;
+        width: 25vw;
         visibility: initial;
-        width: 45vw;
     }
 }
 
