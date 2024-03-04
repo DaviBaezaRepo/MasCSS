@@ -1,0 +1,159 @@
+
+    .Body {
+        margin: 0px;
+    }
+    .contenido {
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center
+    }
+    .header {
+        background-color: #0f1629;
+        height: 10vh;
+    }
+    
+    .menu {
+        background-color: #f03d50;
+        height: 10vh;
+    }
+    .hero {
+        background-color: #4f86c7;
+        height: 20vh;
+    }
+    .main {
+        background-color: #24344b;
+        height: 16vh;
+    }
+    .banner {
+        background-color: #ffd06a;
+        height: 15vh;
+    }
+    .extra {
+        background-color: #4ebc97;
+        height: 15vh;
+    }
+    .image {
+        background-color: #c1e3e5;
+        height: 15vh;
+    }
+
+@media screen and (min-width: 768px) {
+
+    .Body {
+        margin: 0px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .contenido {
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .header {
+        background-color: #0f1629;
+        height: 7vh;
+        display: grid;
+        grid-column: span 3;
+    }
+    
+    .menu {
+        background-color: #f03d50;
+        height: 47vh;
+        display: grid;
+        grid-row: 3 / span 3;
+
+
+        
+    }
+    .hero {
+        background-color: #4f86c7;
+        height: 20vh;
+        display: grid;
+        grid-column: span 3;
+    }
+    .main {
+        background-color: #24344b;
+        height: 16vh;
+        display: grid;
+        grid-column: span 2;
+    }
+    .banner {
+        background-color: #ffd06a;
+        height: 15vh;
+        display: grid;
+        grid-column: span 2;
+    }
+    .extra {
+        background-color: #4ebc97;
+        height: 15vh;
+    }
+    .image {
+        background-color: #c1e3e5;
+        height: 15vh;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+
+    .Body {
+        margin: 0px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .contenido {
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center
+    }
+    .header {
+        background-color: #0f1629;
+        height: 10vh;
+        display: grid;
+        grid-column: span 1;
+        grid-row: 1;
+    }
+    
+    .menu {
+        background-color: #f03d50;
+        height: 10vh;
+        display: grid;
+        grid-column: span 2;
+        grid-row: 1;
+    }
+    .hero {
+        background-color: #4f86c7;
+        height: 20vh;
+        display: grid;
+        grid-column: span 3;
+    }
+    .main {
+        background-color: #24344b;
+        height: 30vh;
+        display: grid;
+        grid-column: span 1;
+        grid-row: span 4;
+    }
+    .banner {
+        background-color: #ffd06a;
+        height: 15vh;
+        display: grid;
+        grid-column: 1 / span 3;
+    }
+    .extra {
+        background-color: #4ebc97;
+        height: 15vh;
+        display: grid;
+        grid-column: 3;
+        grid-row: 5;
+    }
+    .image {
+        background-color: #c1e3e5;
+        height: 15vh;
+        display: grid;
+        grid-column: 3;
+        grid-row: 3;
+    }
+}
