@@ -1,5 +1,5 @@
 
-    .Body {
+    .container {
         margin: 0px;
     }
     .contenido {
@@ -40,7 +40,7 @@
 
 @media screen and (min-width: 768px) {
 
-    .Body {
+    .container {
         margin: 0px;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
@@ -81,7 +81,7 @@
     }
     .banner {
         background-color: #ffd06a;
-        height: 15vh;
+        height: 16vh;
         display: grid;
         grid-column: span 2;
     }
@@ -97,10 +97,9 @@
 
 @media screen and (min-width: 1024px) {
 
-    .Body {
-        margin: 0px;
+    .container {
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
     }
     .contenido {
         color: white;
@@ -120,40 +119,39 @@
         background-color: #f03d50;
         height: 10vh;
         display: grid;
-        grid-column: span 2;
+        grid-column: span 3;
         grid-row: 1;
     }
     .hero {
         background-color: #4f86c7;
-        height: 20vh;
+        height: 30vh;
         display: grid;
-        grid-column: span 3;
+        grid-column: span 4;
     }
     .main {
         background-color: #24344b;
-        height: 30vh;
+        height: 45vh;
         display: grid;
-        grid-column: span 1;
         grid-row: span 4;
     }
     .banner {
         background-color: #ffd06a;
         height: 15vh;
         display: grid;
-        grid-column: 1 / span 3;
+        grid-column: 1 / span 4;
     }
     .extra {
         background-color: #4ebc97;
-        height: 15vh;
+        height: 22vh;
         display: grid;
-        grid-column: 3;
+        grid-column: 4;
         grid-row: 5;
     }
     .image {
         background-color: #c1e3e5;
-        height: 15vh;
+        height: 22vh;
         display: grid;
-        grid-column: 3;
+        grid-column: 4;
         grid-row: 3;
     }
 }
