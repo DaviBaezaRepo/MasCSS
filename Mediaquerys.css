@@ -111,68 +111,74 @@
 
     .contenido {
         margin: 7px;
+        display: flex;
     }
     
     .color1 {
         background-color: #fea333;
-        height: 7vh;
+        height: 12vh;
         width: 47vw;
         float: left;
     }
     .color2 {
         background-color: #fea333;
-        height: 7vh;
+        height: 12vh;
         width: 47vw;
         float: right;
     }
     .color3 {
         background-color: #dbec00;
-        height: 25vh;
+        height: 40vh;
         clear: both;
     }
     .color4 {
         background-color: #4a89d0;
-        height: 20vh;
-        width: 280px;
+        height: 25vh;
+        width: 31vw;
         float: left;
     }
     .color5 {
         background-color: #4a89d0;
-        height: 20vh;
-        width: 300px;
-        float: right;
+        height: 25vh;
+        width: 31vw;
+        float: left;
     }
     .color6 {
         background-color: #4a89d0;
-        height: 20vh;
-        width: 330px;
+        height: 25vh;
+        width: 31vw;
         float: left;
-        position: relative;
-        left: 30px;
+
     }
     .color7 {
         background-color: #e3e3e3;
         height: 20vh;
-        width: 25vw;
+        width: 23vw;
         clear: both;
+        float: left;
     }
     .color8 {
         background-color: #e3e3e3;
         height: 20vh;
-        width: 25vw;
+        width: 23vw;
         visibility: initial;
+        float: left;
+
     }
     .color9 {
         background-color: #e3e3e3;
         height: 20vh;
-        width: 25vw;
+        width: 23vw;
         visibility: initial;
+        float: right;
     }
     .color10 {
         background-color: #e3e3e3;
         height: 20vh;
-        width: 25vw;
+        width: 23vw;
         visibility: initial;
+        float: right;
+
     }
 }
 
